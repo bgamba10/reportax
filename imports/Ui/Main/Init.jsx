@@ -78,6 +78,7 @@ class Init extends Component {
                     </div>
 
                     <div className="imageArrow">
+                        /*Pueden poner un link con href="#row introduction" para que el usuario haga click en la flecha y sirva */
                         <img src="img/arrow.png" />
                     </div>
                 </div>
